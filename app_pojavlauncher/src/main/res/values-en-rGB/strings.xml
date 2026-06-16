@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- App name part -->
-    <string name="app_name">Meu Launcher Minecraft</string>
-    <string name="app_short_name">MeuMC</string>
+    <string name="app_name">SimplesLauchers Minecraft</string>
+    <string name="app_short_name">SimpleLaucher</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
