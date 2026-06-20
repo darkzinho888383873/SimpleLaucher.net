@@ -2,7 +2,7 @@
 <resources>
     <!-- Paleta Oficial Estilo Amethyst -->
     <color name="primary">#A020F0</color>         <!-- Roxo Amethyst Principal -->
-    <color name="primary_dark">#12081F</color>    <!-- Roxo super escuro para a barra de notificações -->
+    <color name="primary_dark">#12081F</color>    <!-- Roxo super escuro para a barra de otificações -->
     <color name="accent">#DDA0DD</color>          <!-- Lilás claro para detalhes e textos secundários -->
     
     <!-- Fundos e Superfícies -->
