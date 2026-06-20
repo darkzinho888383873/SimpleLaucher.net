@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Mude essas linhas para forçar o roxo no app todo -->
-    <color name="primary">#8A2BE2</color>
-    <color name="primary_dark">#4A148C</color>
-    <color name="accent">#BB86FC</color>
-    <color name="background">#120E16</color> <!-- Fundo roxo quase preto -->
-    <color name="surface">#1E152A</color>    <!-- Fundo dos cards do menu -->
+    <!-- Paleta Oficial Estilo Amethyst -->
+    <color name="primary">#A020F0</color>         <!-- Roxo Amethyst Principal -->
+    <color name="primary_dark">#12081F</color>    <!-- Roxo super escuro para a barra de notificações -->
+    <color name="accent">#DDA0DD</color>          <!-- Lilás claro para detalhes e textos secundários -->
+    
+    <!-- Fundos e Superfícies -->
+    <color name="background">#0B0414</color>      <!-- O fundo quase preto/roxo profundo do Amethyst -->
+    <color name="surface">#180D2C</color>         <!-- Roxo escuro para os cards do menu inicial -->
+    <color name="surface_stroke">#321A54</color>  <!-- Borda fina roxa para dar efeito de vidro/glowing -->
+    
+    <!-- Textos -->
+    <color name="text_main">#FFFFFF</color>       <!-- Texto branco principal -->
+    <color name="text_purple">#C8A2C8</color>     <!-- Texto lilás para sub-títulos -->
 </resources>
