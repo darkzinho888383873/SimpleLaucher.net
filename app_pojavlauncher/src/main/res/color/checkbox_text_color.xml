@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:color="#4A148C" android:state_checked="false"/>
-    <item android:color="#9C27B0" android:state_checked="true"/>
-</selector>
+<resources>
+    <!-- Mude essas linhas para forçar o roxo no app todo -->
+    <color name="primary">#8A2BE2</color>
+    <color name="primary_dark">#4A148C</color>
+    <color name="accent">#BB86FC</color>
+    <color name="background">#120E16</color> <!-- Fundo roxo quase preto -->
+    <color name="surface">#1E152A</color>    <!-- Fundo dos cards do menu -->
+</resources>
